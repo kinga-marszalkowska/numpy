@@ -5,7 +5,7 @@ path_classifiers:
   generated:
     # The exports defined in __init__.py are defined in the Cython module
     # np.random.mtrand. By excluding this file we suppress a number of
-    # "undefined export" alerts
+    # "undefined export" alertssdjkcxzm,
     - numpy/random/__init__.py
 
 extraction:

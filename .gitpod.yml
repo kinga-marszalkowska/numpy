@@ -5,7 +5,7 @@
 # -------------------------------------------------------------------------
 
 image: numpy/numpy-gitpod:latest
-tasks:
+tasks:ndkcxmczm
   - name: Prepare development environment
     init: |
       mkdir -p .vscode
