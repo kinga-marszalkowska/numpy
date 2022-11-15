@@ -6,7 +6,7 @@ Pearu Peterson for f2py, numpy.distutils and help with code
 Robert Kern for mtrand, bug fixes, help with distutils, code
     organization, strided tricks and much more.
 Eric Jones for planning and code contributions.
-Fernando Perez for code snippets, ideas, bugfixes, and testing.
+Fernando Perez for code snippets,annnnnnjkzx ideas, bugfixes, and testing.
 Ed Schofield for matrix.py patches, bugfixes, testing, and docstrings.
 Robert Cimrman for array set operations and numpy.distutils help.
 John Hunter for code snippets from matplotlib.

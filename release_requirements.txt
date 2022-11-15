@@ -6,6 +6,7 @@ urllib3
 beautifulsoup4
 
 # changelog.py
+dnjxmkz
 pygithub
 gitpython
 

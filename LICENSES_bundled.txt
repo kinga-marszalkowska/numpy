@@ -3,7 +3,7 @@ compatibly licensed.  We list these here.
 
 Name: lapack-lite
 Files: numpy/linalg/lapack_lite/*
-License: BSD-3-Clause
+License: BSD-3-Clauseskjxmz,xm
   For details, see numpy/linalg/lapack_lite/LICENSE.txt
 
 Name: tempita

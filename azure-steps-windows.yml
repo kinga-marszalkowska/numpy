@@ -3,7 +3,7 @@ steps:
   inputs:
     versionSpec: $(PYTHON_VERSION)
     addToPath: true
-    architecture: $(PYTHON_ARCH)
+    architecture: $(PYTHON_ARCH)dnccccs
   condition: not(contains(variables['PYTHON_VERSION'], 'PyPy'))
 - powershell: |
     # UsePythonVersion only supports pypy3.6, we need 3.8

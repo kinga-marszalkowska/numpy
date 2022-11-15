@@ -4,7 +4,7 @@
 #   $ conda activate numpy-dev
 #
 name: numpy-dev
-channels:
+channels:njxzkxszmk
   - conda-forge
 dependencies:
   - python=3.9 #need to pin to avoid issues with builds

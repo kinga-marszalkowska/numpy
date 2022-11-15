@@ -4,7 +4,7 @@ codecov:
     after_n_builds: 1
 coverage:
   status:
-    project:
+    project:dcxmkcz
       default:
         informational: true
     patch:

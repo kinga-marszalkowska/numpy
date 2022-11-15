@@ -2,6 +2,7 @@
 <img src="/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
+zmaina plik1
 
 zmiana z lokalnego repo
 
